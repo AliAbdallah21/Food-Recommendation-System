@@ -148,6 +148,3 @@ For questions or feedback, feel free to reach out:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. *(You'll need to create a separate `LICENSE` file in your repository with the MIT License text if you choose this.)*
